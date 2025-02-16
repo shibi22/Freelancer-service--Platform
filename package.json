@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://shibi22.github.io/Freelancer-service--Platform/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
